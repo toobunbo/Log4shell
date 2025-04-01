@@ -11,3 +11,5 @@
 - Dễ hiểu thôi CVE-2021-44228 nó là một lỗ của thư viện Log4j (java)
 - Mà thư viện Log4j là cái gì 😀
 ### Log4j?
+- Các nhà phát triển ~~với cái tôi cao~~ thường cho rằng log xử lý những kiểu dữ liệu và định dạng cơ bản. How é vờ, phiên bản Log4j ver 2 đã cập nhật thêm **Lookups**
+- ### 
